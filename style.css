@@ -16,14 +16,14 @@ img {
 
 /* The hero section styling- use your OWN Hero Image URL here */
 .hero {
-    background-image: url('images/yourbanner-1130x160.png');
+    background-image: url('images/yourmom.ai');
     height: 25vh;
     background-size: cover;
     background-position: center;
     display: flex;
     justify-content: center;
     align-items: center;
-    color: white;
+    color: rgb(241, 192, 233);
     text-align: center;
     position: relative;
 }
@@ -39,7 +39,7 @@ img {
     color: white;
     font-size: 2em;
     padding: 0.1em 3em;
-    background-color: rgb(71, 71, 71);
+    background-color: rgb(243, 196, 222);
 }
 
 /* Three column grid with a nice big gap */
@@ -55,7 +55,7 @@ img {
 
 /* Styling for the individual topic cards rounded edges background color and a drop shadow */
 .topic-card{
-    background-color: rgb(71, 71, 71);
+    background-color: rgb(236, 219, 160);
     color: white;
     padding: 1em;
     border-radius: 0.5em;
@@ -73,8 +73,8 @@ img {
 
 /* Styling for a footer section to take a bit of spcae at the bottom of the page */
 .footer{
-    background-color: rgb(71, 71, 71);
-    color: white;
+    background-color: rgb(245, 187, 230);
+    color: rgb(238, 224, 164);
     text-align: right;
     padding: 3em 3em;
 }
